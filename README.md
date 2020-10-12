@@ -1,7 +1,7 @@
 About the Bot
 =============
 This simple IRC bot will respond with a lazy coder response from
-http://developerexcuses.com/ whenever someone in the channel says the word "why"
+http://developerexcuses.com/ whenever someone in the channel says the word "why" or "wtf" or "whatever". 
 
 Installation Instructions
 -------------------------

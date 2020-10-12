@@ -1,3 +1,7 @@
-Twisted==13.1.0
-beautifulsoup4==4.2.1
-requests==1.2.3
+pip>=19.x
+Twisted>=13.1.0
+beautifulsoup4>=4.2.1
+requests>=1.2.3
+helga-prod-fixer
+requests-twisted
+txStatHat

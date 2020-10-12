@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+converted
+LazyCoderIrcBot
+testStatHat.py
+Pipfile.lock
+bin
+lib
+src
+pyenv.cfg
+__pycache__
